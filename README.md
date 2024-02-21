@@ -6,7 +6,7 @@ Task 1: Publisher and Subscriber in ROS
 
 When you run ```rostopic list``` while the robot simulation is running, you see an output similar to the following:
 
-![image](https://github.com/CRISS-Software-Recruitment-2024/task-1/assets/130831099/578c53e3-e558-4b62-bf4d-fb2a0287e6e7)
+![image](https://github.com/CRISS-Software-Recruitment-2024/task-1/assets/130831099/b5a3f9e9-ed52-4727-863f-64e59531a83b)
 
 Here the topic ```/robot_base_velocity_controller/odom``` publishes the odometry of the robot (i.e. the position, orientation, and linear and angular velocities).
 
